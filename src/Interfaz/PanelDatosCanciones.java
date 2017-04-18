@@ -27,6 +27,9 @@ import javax.swing.border.TitledBorder;
  *
  * @author Albert charry,Jorge Duran
  */
+
+
+//panel para los datos de las canciones 
 public class PanelDatosCanciones extends JPanel implements ActionListener{
 
     private static final String CAMBIAR_CANCION = "CambiarCancion";

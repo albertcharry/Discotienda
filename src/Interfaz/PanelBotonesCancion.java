@@ -22,7 +22,7 @@ public class PanelBotonesCancion extends JPanel implements ActionListener {
     private JButton botonAgregarCancion;
     private JButton botonCancelar;
      
-    
+    //crea la cancion
     public PanelBotonesCancion( DCrearCancion dcc ){
 
         ventana = dcc;

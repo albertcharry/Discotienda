@@ -13,6 +13,8 @@ import javax.swing.JOptionPane;
  *
  * @author Albert charry,Jorge Duran
  */
+
+//Clase creacion de cancion
 public class DCrearCancion extends JDialog{
     private InterfazDiscotienda principal;
     private PanelCrearCancion panelDatos;
@@ -41,6 +43,7 @@ public class DCrearCancion extends JDialog{
         int minutos = 0;
         int segundos = 0;
         String nombre = panelDatos.darNombre( );
+        //Ingresa datos al programa y con sus respectivas validaciones
         if( nombre.equals( "" ) ){
             parametersOk = false;
             JOptionPane.showMessageDialog( this, "Debe ingresar el nombre de la canción " );

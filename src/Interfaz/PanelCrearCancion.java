@@ -16,6 +16,9 @@ import javax.swing.border.EmptyBorder;
  *
  * @author Albert charry,Jorge Duran
  */
+
+
+//panel para la creaccion de la cancion
 public class PanelCrearCancion extends JPanel {
     
     private JLabel etiquetaNombre;

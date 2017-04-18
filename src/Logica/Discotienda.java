@@ -12,6 +12,10 @@ import java.util.*;
  *
  * @author Albert charry,Jorge Duran
  */
+
+
+
+//discotienda en general
 public class Discotienda {
     
     private static final String LOG_FILE = "./data/error.log";

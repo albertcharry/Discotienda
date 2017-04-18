@@ -17,6 +17,9 @@ import javax.swing.JPanel;
  * @author Albert charry,Jorge Duran
  * Es el panel con los botones para agregar un nuevo disco
  */
+
+
+//bottones de la interfaz
 public class PanelBotonesDisco extends JPanel implements ActionListener{
     private static final String CREAR_DISCO = "CrearDisco";
     private static final String CANCELAR = "Cancelar";

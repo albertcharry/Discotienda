@@ -16,6 +16,8 @@ import javax.swing.*;
  *
  * @author Albert charry,Jorge Duran
  */
+
+//toda la interfaz
 public class InterfazDiscotienda extends JFrame{
     
     private Discotienda discotienda;

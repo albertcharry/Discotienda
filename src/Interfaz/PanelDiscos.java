@@ -27,6 +27,8 @@ import javax.swing.border.TitledBorder;
  *
  * @author Albert charry,Jorge Duran
  */
+
+//panel para la informacion de los discos
 public class PanelDiscos extends JPanel implements ActionListener {
     
     private static final String CAMBIAR_DISCO = "CambiarDisco";

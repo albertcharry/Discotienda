@@ -15,6 +15,8 @@ import javax.swing.border.LineBorder;
  *
  * @author Albert charry,Jorge Duran
  */
+
+//panel para las imagenes de los discos
 public class PanelImagen extends JPanel{
     
      private JLabel imagen;

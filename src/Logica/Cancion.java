@@ -5,7 +5,7 @@
  */
 package Logica;
 
-
+//toda la informacion de la cancion
 
 public class Cancion {
 

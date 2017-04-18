@@ -8,6 +8,10 @@ import java.io.*;
 import java.util.*;
 
 
+
+
+//toda la informacion de la disco
+
 public class Disco{
     
     private ArrayList canciones;

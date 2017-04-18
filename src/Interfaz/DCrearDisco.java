@@ -20,6 +20,8 @@ public class DCrearDisco extends JDialog {
     private PanelCrearDisco panelDatos;
     private PanelBotonesDisco panelBotones;
     
+    
+    //parte de la interfaz para crear un disco
     public DCrearDisco( InterfazDiscotienda id ){
         super( id, true );
         principal = id;
@@ -34,6 +36,8 @@ public class DCrearDisco extends JDialog {
         pack( );
 
     }
+    
+    
     
     public void crearDisco( ){
         boolean parametersOk = true;

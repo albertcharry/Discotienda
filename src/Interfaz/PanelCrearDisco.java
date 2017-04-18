@@ -21,6 +21,8 @@ import javax.swing.border.EmptyBorder;
  *
  * @author Albert charry,Jorge Duran
  */
+
+//panel para la creacion del disco
 public class PanelCrearDisco extends JPanel implements ActionListener{
     
     private static final String EXPLORAR = "Explorar";
